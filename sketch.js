@@ -482,19 +482,19 @@ function draw() {
 
         textAlign(CENTER);
 
-        text("directed & coded by shivum banerjee", 600, 600);
+        text("directed & coded by Vani banerjee", 600, 600);
 
-        text("problems by shivum banerjee, elyssa chandler, maria jiao & alex yang", 600, 1100);
+        text("problems by Vani banerjee, elyssa chandler, maria jiao & alex yang", 600, 1100);
 
         text("web design by elyssa chandler", 600, 1400);
 
-        text("art by maria jiao & shivum banerjee", 600, 1700);
+        text("art by maria jiao & Vani banerjee", 600, 1700);
 
-        text("story by elyssa chandler, maria jiao, & shivum banerjee", 600, 2000);
+        text("story by elyssa chandler, maria jiao, & Vani banerjee", 600, 2000);
 
-        text("minigames by shivum banerjee & alex yang", 600, 2300);
+        text("minigames by Vani banerjee & alex yang", 600, 2300);
 
-        text("animations by maria jiao & shivum banerjee", 600, 2600);
+        text("animations by maria jiao & Vani banerjee", 600, 2600);
         pop();
 
       } else {
